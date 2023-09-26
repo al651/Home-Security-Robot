@@ -1,5 +1,5 @@
 # Home-Security-Robot
-Made as part of my Computing BsC at Portsmouth University
+Made as part of my Computing BSc Undergrad degree at The University of Portsmouth
 
 This project was originally intended to be open-source and free to use, but I had to wait until I got my grade, so now that I have graduated, I have released the code free to use.
 
