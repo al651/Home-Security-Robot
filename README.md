@@ -25,4 +25,8 @@ The code I used for the esp32cam won't be included, you can get that from this r
 
 <img src="assets/app-camera-screen.png" alt="Camera screen of the app when connected to a ESP32-CAM" width="300"/>
 
+### Picture of my messy robot design
+
+![Picture of my messy robot](/assets/my-messy-robot-design.jpg)
+
 (I may have a video of the development process coming.)
