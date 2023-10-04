@@ -5,4 +5,8 @@ This project was originally intended to be open-source and free to use, but I ha
 
 The code used in this project should not be used as a guideline for writing good code. Many of the aspects of this project are things that I had never used before.
 
+The code I used for the esp32cam won't be included, you can get that from this repository https://github.com/rzeldent/esp32cam-rtsp. This upload is only for the Flutter app that connects to the esp32cam and the Arduino Nano driving code.
+
+
+
 (I may have a video of the development process coming.)
