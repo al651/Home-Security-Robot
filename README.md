@@ -17,15 +17,17 @@ The code used in this project should not be used as a guideline for writing good
 
 ![ESP32-CAM connections](/assets/esp32-CAM-connections.png)
 
-The code I used for the esp32cam won't be included, you can get that from this repository https://github.com/rzeldent/esp32cam-rtsp. This upload is only for the Flutter app that connects to the esp32cam and the Arduino Nano driving code. Credits go to the repository listed above for their ESP32-CAM connections diagram.
+The code I used for the ESP32-CAM won't be included, you can get that from this repository https://github.com/rzeldent/esp32cam-rtsp. This upload is only for the Flutter app that connects to the esp32cam and the Arduino Nano driving code. Credits go to the repository listed above for their ESP32-CAM connections diagram.
 
-### Pictures of the app
+### The App
+
+The app is quite simple, it uses a VLC player plugin called "flutter_vlc_player" and simple flutter UI elements. You may notice a menu button in the top left of the app, but it has no functionality. While learning to use Flutter, I played with the different UI elements and thought a menu could serve to add additional functionality. I never added additional functionality but forgot to remove the menu button.
 
 <img src="assets/app-setup-screen.png" alt="Setup screen of the app" width="300"/>
 
 <img src="assets/app-camera-screen.png" alt="Camera screen of the app when connected to a ESP32-CAM" width="300"/>
 
-### Picture of my messy robot design
+### The Robot
 
 ![Picture of my messy robot](/assets/my-messy-robot-design.jpg)
 
