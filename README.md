@@ -17,7 +17,7 @@ The code used in this project should not be used as a guideline for writing good
 
 ![ESP32-CAM connections](/assets/esp32-CAM-connections.png)
 
-The code I used for the ESP32-CAM won't be included, you can get that from this repository https://github.com/rzeldent/esp32cam-rtsp. This upload is only for the Flutter app that connects to the esp32cam and the Arduino Nano driving code. Credits go to the repository listed above for their ESP32-CAM connections diagram.
+The code I used for the ESP32-CAM won't be included, you can get that from this repository https://github.com/rzeldent/esp32cam-rtsp. This upload is only for the Flutter app that connects to the ESP32-CAM and the Arduino Nano driving code. Credits go to the repository listed above for their ESP32-CAM connections diagram.
 
 ### The App
 
