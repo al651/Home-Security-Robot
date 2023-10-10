@@ -30,5 +30,3 @@ The app is quite simple, it uses a VLC player plugin called "flutter_vlc_player"
 ### The Robot
 
 ![Picture of my messy robot](/assets/my-messy-robot-design.jpg)
-
-(I may have a video of the development process coming.)
