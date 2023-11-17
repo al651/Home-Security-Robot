@@ -21,7 +21,7 @@ The code I used for the ESP32-CAM won't be included, you can get that from this 
 
 ### The App
 
-The app is quite simple, it uses a VLC player plugin called "flutter_vlc_player" (https://pub.dev/packages/flutter_vlc_player) and simple flutter UI elements. You may notice a menu button in the top left of the app, but it has no functionality. While learning to use Flutter, I played with the different UI elements and thought a menu could serve to add additional functionality. I never added additional functionality but forgot to remove the menu button. 
+The app is quite simple, it uses a VLC player plugin called [flutter_vlc_player](https://pub.dev/packages/flutter_vlc_player) and simple flutter UI elements. You may notice a menu button in the top left of the app, but it has no functionality. While learning to use Flutter, I played with the different UI elements and thought a menu could serve to add additional functionality. I never added additional functionality but forgot to remove the menu button. 
 
 <img src="assets/app-setup-screen.png" alt="Setup screen of the app" width="300"/>
 
